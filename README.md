@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0xpatryk/0xpatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 I've Moved!
 
-Here are some ideas to get you started:
+Hi there! 👋 Thanks for stopping by. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have recently migrated my GitHub presence to a new account. You can now find all my latest repositories, contributions, and technical information over at my active profile.
+
+### [👉 Click here to visit my new profile: @stemper-dev](https://github.com/stemper-dev)
+
+<br>
+
+### What You Will Find There
+
+Cloud infrastructure & Microsoft Azure solutions<br>
+AI agent development & LLM integrations<br>
+Enterprise workflow automation (n8n & Make.com)<br>
+Full-stack projects in Python, TypeScript, and Rust<br>
+
+<br>
+
+*Looking forward to connecting with you at my new home!*
+
+</div>
